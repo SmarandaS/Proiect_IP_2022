@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1641479353 source:e:\informatica\c++\school\var8.1\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	<ctype.h>
+	<string>
+	<fstream>
+	"evaluator.h"
+	<stdio.h>
+
+1641464133 e:\informatica\c++\school\var8.1\evaluator.h
+	<bits/stdc++.h>
+
+1641583408 source:c:\users\smara_9yjfm5z\onedrive\desktop\var8.1\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	<ctype.h>
+	<string>
+	<fstream>
+	"evaluator.h"
+	<stdio.h>
+
+1641582684 c:\users\smara_9yjfm5z\onedrive\desktop\var8.1\evaluator.h
+	<bits/stdc++.h>
+
+1642053650 source:c:\users\smara_9yjfm5z\onedrive\desktop\varianta curenta\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	<ctype.h>
+	<string>
+	<fstream>
+	"evaluator.h"
+	<stdio.h>
+
+1641582684 c:\users\smara_9yjfm5z\onedrive\desktop\varianta curenta\evaluator.h
+	<bits/stdc++.h>
+
